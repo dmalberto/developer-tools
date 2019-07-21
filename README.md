@@ -4,7 +4,7 @@
 * [Cmder](https://cmder.net)
 * [ConEmu](https://conemu.github.io)
 * [Putty](https://www.putty.org)
-* [Hyper](https://www.hyper.io)
+* [Hyper](https://www.hyper.is)
 
 
 ## VPN
