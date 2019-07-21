@@ -10,5 +10,6 @@
 ## VPN
 * [VPN Gate](https://www.vpngate.net/en/)
 
-## Workspaces
+## Workspaces Online IDE
 * [Codenvy](https://codenvy.io)
+* [Codeanywhere](https://codeanywhere.com)
