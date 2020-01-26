@@ -13,3 +13,4 @@
 ## Workspaces & Online IDE
 * [Codenvy](https://codenvy.io)
 * [Codeanywhere](https://codeanywhere.com)
+* [Gitpod](https://gitpod.io)
